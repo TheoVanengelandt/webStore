@@ -1,0 +1,15 @@
+/home/theo/javaProjects/webStore/target/generated-sources/jaxws-wsimport/com/store/integration/BankingService.java
+/home/theo/javaProjects/webStore/src/main/java/com/store/business/logic/PaymentValidator.java
+/home/theo/javaProjects/webStore/target/generated-sources/jaxws-wsimport/com/store/integration/PaymentOperationResponse.java
+/home/theo/javaProjects/webStore/target/generated-sources/jaxws-wsimport/com/store/integration/ObjectFactory.java
+/home/theo/javaProjects/webStore/src/main/java/com/store/config/RestClientFactory.java
+/home/theo/javaProjects/webStore/src/main/java/com/store/model/PaymentBean.java
+/home/theo/javaProjects/webStore/src/main/java/com/store/model/PaymentOrderBean.java
+/home/theo/javaProjects/webStore/src/main/java/com/store/business/logic/RestPaymentValidator.java
+/home/theo/javaProjects/webStore/target/generated-sources/jaxws-wsimport/com/store/integration/PaymentOperation.java
+/home/theo/javaProjects/webStore/src/main/java/com/store/business/logic/Rest.java
+/home/theo/javaProjects/webStore/target/generated-sources/jaxws-wsimport/com/store/integration/BankingEndpoint.java
+/home/theo/javaProjects/webStore/src/main/java/com/store/business/logic/Soap.java
+/home/theo/javaProjects/webStore/target/generated-sources/jaxws-wsimport/com/store/integration/package-info.java
+/home/theo/javaProjects/webStore/src/main/java/com/store/business/logic/SoapPaymentValidator.java
+/home/theo/javaProjects/webStore/src/main/java/com/store/model/PaymentOrder.java
